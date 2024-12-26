@@ -2,6 +2,13 @@
 
 This simple template does not use packages or templates from Typst Universe.
 
+The file "main_2.typ" contains the usual global configuration.
+Files are "included" into "main_2.typ" by "index.typ". 
+The main text files are stored in "chapters".
+Image files are stored in "images".
+
+This template solved the problem mentioned in 
+
 ```
 .
 ├── main_2.typ
