@@ -7,7 +7,7 @@ Files are "included" into "main_2.typ" by "index.typ".
 The main text files are stored in "chapters".
 Image files are stored in "images".
 
-This template solved the problem mentioned in 
+This template solved the problem mentioned in my repository "Simple typst article template" [here](https://github.com/chunyufen/Simple_typst_article_template). The problem is solved by trial and error.
 
 ```
 .
