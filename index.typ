@@ -1,5 +1,5 @@
 
-#include "chapters/introduction.typ"
+#include "/chapters/introduction.typ"
 #include "/chapters/literature_review.typ"
 #include "/chapters/method.typ"
 #include "/chapters/result.typ"
